@@ -7,11 +7,8 @@ __pycache__/
 /docs/_build/
 *.html
 /psycopg_binary/
-.vscode
-.venv
 .coverage
 htmlcov
-.idea
 
 .eggs/
 dist/
@@ -23,3 +20,13 @@ wheelhouse/
 /psycopg_c/build/
 /psycopg_pool/build/
 /tools/build/pg_config_vcpkg_stub/build/
+
+# environments
+.venv
+
+# IDE
+.idea
+.vscode
+
+# ruff stuff
+.ruff_cache

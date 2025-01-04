@@ -17,9 +17,8 @@ pytest-cov == 3.0.0
 pytest-randomly == 3.5.0
 
 # From the 'dev' extra
-black == 24.1.0
 dnspython == 2.1.0
-flake8 == 4.0.0
+ruff == 0.8.5
 types-setuptools == 57.4.0
 wheel == 0.37
 
